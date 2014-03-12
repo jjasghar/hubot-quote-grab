@@ -2,6 +2,8 @@
 
 Sometimes you want to grab good quotes from your channels, and randomly call them back
 
+tl;dr I want to re-create [QuoteGrabs](http://ubottu.com/supydocs/plugins/QuoteGrabs.html) in coffeescript for hubot.
+
 # Initial design steps to make this
 1. get hubot to store to redis brain on a specific non-traditional production redis db
 2. get hubot to pull from redis brain
