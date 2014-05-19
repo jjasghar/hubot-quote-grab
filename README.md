@@ -26,8 +26,6 @@ Add **hubot-quote-grab** to your `external-scripts.json`:
 
 Run `npm install hubot-quote-grab`
 
-I have a [TODO.md](TODO.md) for the plans I want in it. If you want to do it you are more than welcome!
-
 ## Sample Interaction
 
 ```
